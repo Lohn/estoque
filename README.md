@@ -1,8 +1,7 @@
 ABRIL Estoque
 ============================
 
-ABRIL Estoque é um sistema básico de controle de estoque para o teste 1 
-de candidatura à vaga de Web Master junto à editora Abril.
+ABRIL Estoque é um sistema básico de controle de estoque.
 
 O sistema foi desenvolvido utilizando a [framework Yii2](http://www.yiiframework.com/) do PHP organizada no padrão MVC. 
 Utilizei também o Bootstrap e o banco de dados em MySQL.
